@@ -1,0 +1,53 @@
+.jumbotron {
+    background-image: url(http://i66.tinypic.com/28am9fs.jpg);
+    color: #fff;
+    background-size: cover;
+    min-height: 300px;
+}
+
+p {
+    text-align: center;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.card:hover {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tombol {
+    margin: 15px 0px 15px 0px;
+}
+
+h2 {
+    /* padding : 20px; */
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.bg-hijau {
+    background-color: #0bc72a;
+    color: #fff;
+}
+
+.abuabu {
+    border-top: 1px solid #e7e7e7; 
+}
+
+.kaki {
+    float: left;
+}
+
+.kamu {
+    float: right;
+    color: red;
+    font-weight: 400;
+}
